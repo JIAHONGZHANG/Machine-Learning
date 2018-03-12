@@ -10,10 +10,10 @@ My own study in Machine Learning in COMP9417 Machine Learning and Data Mining in
 
 2. Multi linear regression
 
-   <>
+   <https://github.com/JIAHONGZHANG/Machine-Learning/blob/master/multi_linear_regression.py>
 
    Src: 50_Startups.csv
 
-   <>
+   <https://github.com/JIAHONGZHANG/Machine-Learning/blob/master/src/50_Startups.csv>
 
 3. ​
