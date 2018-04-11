@@ -22,4 +22,7 @@ My own study in Machine Learning in COMP9417 Machine Learning and Data Mining in
 
    <https://github.com/JIAHONGZHANG/Machine-Learning/blob/master/src/Position_Salaries.csv>
 
+4. Handbook.md
+
+   Used for reviewing COMP9417. Update on 12/04/2018.
 
